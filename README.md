@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<ul>
+  <li>I am an Associate Professor at Texas Tech University</li>
+  <li>I am a faculty advisor of the Society of Women Engineers</li>
+  <li>I am the Undergraduate Program Coordinator for the Department of Computer Science</li>
+</ul>
